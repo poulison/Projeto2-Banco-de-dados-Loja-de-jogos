@@ -29,9 +29,10 @@ Este projeto teve como objetivo fazer o sistema do banco de dados de uma loja de
 3. **Insira os dados fictícios no banco:**
 
    Após a criação das tabelas, execute o script Python. Usando o arquivo [insercao.py](https://github.com/poulison/Projeto2-Banco-de-dados-Loja-de-jogos/blob/main/insercao.py):
+   (Necessario instalar as bibliotecas necessarias para execucao)
 
 
-4. **Valide a consistência dos dados inseridos:** Use o script [verificacao.sql](https://github.com/poulison/Projeto2-Bando-de-dados-Loja-de-jogos/blob/main/verificacao.sql) para verificar se os dados foram inseridos corretamente.
+5. **Valide a consistência dos dados inseridos:** Use o script [verificacao.sql](https://github.com/poulison/Projeto2-Bando-de-dados-Loja-de-jogos/blob/main/verificacao.sql) para verificar se os dados foram inseridos corretamente.
 
       ```bash
         Como executar:
@@ -43,7 +44,7 @@ Este projeto teve como objetivo fazer o sistema do banco de dados de uma loja de
       - Execute cada query de verificação individualmente
 
       
-5. **Execute as queries SQL do projeto:**
+6. **Execute as queries SQL do projeto:**
    As queries exigidas no enunciado e as extras está no arquivo:
    - [querys.sql](https://github.com/poulison/Projeto2-Banco-de-dados-Loja-de-jogos/blob/main/querys.sql)
    
