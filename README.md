@@ -5,7 +5,7 @@
 -  Victor Merker Binda RA: 22.125.075-6
 
 ## Descrição do Projeto:
-
+Este projeto teve como objetivo fazer o sistema do banco de dados de uma loja de jogos. Gerenciando os clientes, funcionários, jogos, plataformas, pedidos, cupons de desconto e os relacionamentos entre essas entidades.
 
 ### Recursos usados:
 - Supabase
