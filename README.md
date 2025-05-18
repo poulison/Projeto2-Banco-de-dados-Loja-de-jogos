@@ -48,9 +48,10 @@
    - [querys.sql](https://github.com/poulison/Projeto2-Banco-de-dados-Loja-de-jogos/blob/main/querys.sql)
    
 ##  Modelo Entidade Relacionamento:
-![image](https://github.com/user-attachments/assets/7f737c81-f79c-4d0a-a186-4d801beeaa9e)
+![image](https://github.com/user-attachments/assets/423e1089-b50c-43ee-838e-9bb73c61f64e)
 
 
 ##  Modelo Relacional :
-![image](https://github.com/user-attachments/assets/64178ba5-f44d-4180-b06c-e7a420d2d982)
+![image](https://github.com/user-attachments/assets/ef02d22d-2e1e-4e42-ab05-9e7f72a96992)
+
 
