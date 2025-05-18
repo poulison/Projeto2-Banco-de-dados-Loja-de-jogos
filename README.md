@@ -38,7 +38,7 @@ Este projeto teve como objetivo fazer o sistema do banco de dados de uma loja de
       
       - Acesse o SQL Editor no Supabase
 
-      - Copie e cole o conteúdo do arquivo queries/verificacao.sql
+      - Copie e cole o conteúdo do arquivo /verificacao.sql
 
       - Execute cada query de verificação individualmente
 
