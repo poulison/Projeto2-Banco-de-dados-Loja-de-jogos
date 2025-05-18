@@ -1,4 +1,4 @@
-# Projeto2-Bando-de-dados-Loja-de-jogos
+ # Projeto2-Bando-de-dados-Loja-de-jogos
 
 ## Integrantes:
 -  Paulo Andre de Oliveira Hirata RA: 22.125.072-3
@@ -38,7 +38,7 @@ Este projeto teve como objetivo fazer o sistema do banco de dados de uma loja de
       
       - Acesse o SQL Editor no Supabase
 
-      - Copie e cole o conteúdo do arquivo queries/validacaodosdados.sql
+      - Copie e cole o conteúdo do arquivo queries/verificacao.sql
 
       - Execute cada query de verificação individualmente
 
